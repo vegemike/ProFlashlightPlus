@@ -1,0 +1,9 @@
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\ProFlashlightPlus.csproj.AssemblyReference.cache
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\ProFlashlightPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\ProFlashlightPlus.AssemblyInfoInputs.cache
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\ProFlashlightPlus.AssemblyInfo.cs
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\ProFlashlightPlus.csproj.CoreCompileInputs.cache
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\bin\Debug\netstandard2.1\vegemike.ProFlashlightPlus.deps.json
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\bin\Debug\netstandard2.1\vegemike.ProFlashlightPlus.dll
+C:\Users\mikey\OneDrive\Desktop\lc modding\ProFlashlight+\ProFlashlightPlus\ProFlashlightPlus\obj\Debug\netstandard2.1\vegemike.ProFlashlightPlus.dll
