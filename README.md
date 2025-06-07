@@ -1,6 +1,8 @@
 # ProFlashlightPlus for Lethal Company
 
-[`Features`](#features) [`Installation`](#installation) [`Usage`](#usage)
+- [`Features`](#features)
+- [`Installation`](#installation)
+- [`Usage`](#usage)
 
 
 
