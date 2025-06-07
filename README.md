@@ -16,4 +16,4 @@ This works for both the normal and pro flashlights
 
 ---
 
-Feel free to open issues or contribute.
+feel free to open issues or contribute!!
