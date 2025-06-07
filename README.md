@@ -19,19 +19,19 @@ currently has:
 
 
 
-3. light spread
+2. light spread
    
 ![img6](ProFlashlightPlus/imgs/pic%20(6).jpg)
 
 
 
-5. colour (3 sliders for rgb)
+3. colour (3 sliders for rgb)
    
 ![img2](ProFlashlightPlus/imgs/pic%20(2).jpg)
 
 
 
-7. strobe + speed control
+4. strobe + speed control
    
 ![img2](ProFlashlightPlus/imgs/pic%20(4).jpg) (hard to show in a picture)
 
