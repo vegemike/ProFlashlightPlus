@@ -1,5 +1,7 @@
 # ProFlashlightPlus for Lethal Company
 
+![img1](ProFlashlightPlus/imgs/pic%20(1).jpg)
+
 A BepInEx mod that allows the user to easily alter properties of the lethal company flashlights through a GUI.
 This works for both the normal and pro flashlights
 ## features
