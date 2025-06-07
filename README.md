@@ -2,17 +2,23 @@
 
 A BepInEx mod that allows the user to easily alter properties of the lethal company flashlights through a GUI.
 This works for both the normal and pro flashlights
-## Installation
+## features
+currently has:
+1. intensity (brightness)
+2. light spread
+3. colour (3 sliders for rgb)
+4. strobe + speed control
 
-1. Install BepInEx for lethal company
-2. Download the latest DLL from the [ProFlashlightPlus releases](https://github.com/vegemike/ProFlashlightPlus/releases/latest) page.
-3. Place the DLL file into the `BepInEx/Plugins/` folder.
+## installation
 
-## Usage
+1. install BepInEx for lethal company
+2. download the latest DLL from the [ProFlashlightPlus releases](https://github.com/vegemike/ProFlashlightPlus/releases/latest) page
+3. place the DLL file into the `BepInEx/Plugins/` folder
 
-1. Join a Lethal Company game.
-2. Press **F8** to open the flashlight settings GUI.
-3. Adjust the flashlight properties as needed.
+## usage
+
+1. join a Lethal Company game
+2. press **F8** to open the flashlight settings GUI
 
 ---
 
