@@ -1,8 +1,7 @@
 # ProFlashlightPlus for Lethal Company
 
-## [features](#features)
-## [installation](#installation)
-## [usage](#usage)
+[features](#features) • [installation](#installation) • [usage](#usage)
+
 
 ![img1](ProFlashlightPlus/imgs/pic%20(1).jpg)
 
