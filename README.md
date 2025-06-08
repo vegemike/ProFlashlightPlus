@@ -4,7 +4,7 @@
 - [`Installation`](#installation)
 - [`Usage`](#usage)
 
-
+[thunderstore link](https://thunderstore.io/c/lethal-company/p/vegemike/ProFlashlightPlus/)
 
 ![img1](ProFlashlightPlus/imgs/pic%20(1).jpg)
 
