@@ -40,7 +40,7 @@ currently has:
 ## installation
 
 1. install BepInEx for lethal company
-2. download the latest DLL from the [ProFlashlightPlus releases](https://github.com/vegemike/ProFlashlightPlus/releases/latest) page
+2. download the latest DLL from the [ProFlashlightPlus releases](https://github.com/vegemike/ProFlashlightPlus/releases/latest) page or from [thunderstore](https://thunderstore.io/c/lethal-company/p/vegemike/ProFlashlightPlus/)
 3. place the DLL file into the `BepInEx/Plugins/` folder
 
 ## usage
