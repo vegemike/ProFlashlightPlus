@@ -51,8 +51,8 @@ currently has:
 
 
 ## license
-
 this project is licensed under the [GNU GPL v3](LICENSE).  
+
 ---
 
 
