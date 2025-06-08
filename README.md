@@ -3,6 +3,7 @@
 - [`Features`](#features)
 - [`Installation`](#installation)
 - [`Usage`](#usage)
+- [`License`](#license)
 
 [thunderstore link](https://thunderstore.io/c/lethal-company/p/vegemike/ProFlashlightPlus/)
 
@@ -48,6 +49,13 @@ currently has:
 1. join a Lethal Company game
 2. press **F8** to open the flashlight settings GUI
 
+
+## license
+
+this project is licensed under the [GNU GPL v3](LICENSE).  
 ---
 
+
 feel free to open issues or contribute!!
+
+
